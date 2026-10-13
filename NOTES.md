@@ -8,7 +8,7 @@ I had nothing to add to the file , I removed the detail at the top as we know al
     "ask": ["Bash(git push:*)"],
     "deny": ["Read(./.env)", "Bash(git push --force:*)"]
 
-    The deny rule could be a problem if we change the PORT as we use that variable. claude may not know what port it actually runs on at that point.
+    The deny rule prevents claude from reading environment variables. This could lead to exposure of secrets , api keys etc if it did not exist.
 
 
 I used /memory and could see the claude.md loaded.
