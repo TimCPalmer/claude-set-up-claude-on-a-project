@@ -2,6 +2,8 @@
 
 I had nothing to add to the file , I removed the detail at the top as we know already this is for a tutorial
 
+i removed - `npm run lint` — ESLint (`eslint:recommended`)   as this is implementation specific
+
 - Which permission rules did you add, and what could go wrong without your deny rule?
 
     "allow": ["Bash(npm test:*)"],
