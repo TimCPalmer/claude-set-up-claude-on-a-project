@@ -2,7 +2,7 @@
 
 > This is the first project of the Claude Code course. Finish **Units 1 and 2** before you start.
 
-You'll take everything from Units 1 and 2 and put it to work on a real codebase: install and sign in to Claude Code, then give this project a `CLAUDE.md` and permission rules that make Claude genuinely useful from the very first session.
+You'll take everything from Units 1 and 2 and put it to work on a real codebase: install and sign in to Claude Code, then give this project a `CLAUDE.md` and permission rules that make Claude genuinely useful from the very first session. Addind some extra words to test the pr skill
 
 This is also the repository you'll keep building on as the course continues — each level's project adds to it, all the way to a shareable plugin at the end.
 
